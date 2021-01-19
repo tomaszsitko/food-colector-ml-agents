@@ -1,6 +1,6 @@
 # Food colector ML Agents
 
-Food colector created with ML-Agents Toolkit
+Food colector created with ML-Agents Toolkit in Unity Engine.
 
 ## Prerequisites
 
